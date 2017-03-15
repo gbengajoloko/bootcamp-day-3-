@@ -1,0 +1,11 @@
+{
+  "name": "andela-day3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
+  },
+  "author": "Gbenga",
+  "license": "ISC"
+}
